@@ -1,0 +1,19 @@
+1) Throughput adalah kecepatan rata-rata data yang diterima oleh suatu suatu node dalam selang waktu pengamatan tertentu.
+   Rumus throughput = Jumlah data yang dikirim(byte s)/waktu pengiriman(time span) x 8
+		    = 71171/602.886x8
+		    = 9444040830273053
+
+2) Packet Loss adalah banyaknya paket yang hilang pada suatu jaringan paket yang disebabkan oleh tabrakan (collision),
+   penuhnya kapasitas jaringan, dan penurunan paket yang disebabkan oleh habisnya TTL (Time To Live) paket.
+   Rumus packet loss= Jumlah paket yang dikirim - jumlah paket yang diterima/jumlah paket yang dikirim x 100%
+		    = 428-428/428x100
+		    = 0
+
+3) Delay adalah waktu  tunda saat paket yang diakibatkan oleh proses  transmisi dari satu titik menuju titik lain yang
+   menjadi tujuannya.
+   Rumus delay = time 2 - time 1
+	       = 15028642
+
+4) Jiter adalah variasi dari sinyal periodik dalam elektronik dan telekomunikasi
+   Rumus jiter = delay 2 - delay 1
+	       = 39567,66678
